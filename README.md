@@ -1,2 +1,3 @@
-# LU3IN026-TMEs
-Solutions aux travaux pratiques du module Intelligence Artificielle et Science de données que j'ai suivi en L3 informatique à Sorbonne Université (2021/2022).
+# lu3in026 Intelligence Artificielle et Sciences des Données
+
+Solutions aux TPs de l'UE LU3IN026 Intelligence Artificielle et Sciences des données, que j'ai suivi au cours de mon semestre 6, en L3 Informatique à Sorbonne Université.
